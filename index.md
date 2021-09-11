@@ -15,3 +15,7 @@ My favorite things in a few categories are:
 - Book-*Escape from Mr. Lemoncello's Library!*
 - _Netflix_ Series-The Expanding Universe of Ashley Garcia
 - YouTuber-DanTDM
+- Console-Xbox One X
+- Subject-Biology
+
+### I thnk that's enough about me. Goodbye!
