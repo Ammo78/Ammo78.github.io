@@ -18,4 +18,4 @@ My favorite things in a few categories are:
 - Console-Xbox One X
 - Subject-Biology
 
-### I thnk that's enough about me. Goodbye!
+### I think that's enough about me. Goodbye!
