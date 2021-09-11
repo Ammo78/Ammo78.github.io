@@ -18,4 +18,17 @@ My favorite things in a few categories are:
 - Console-Xbox One X
 - Subject-Biology
 
+## My extracurriculars
+- Lawn tennis
+- Drama
+- Coding(Python)
+- Piano
+
+## My projects in Coding
+-Made an encryptor
+-Made a name-place-animal-thing game
+-Made a simple Tic Tac Toe
+-Made another version of that Tic Tac Toe game in kivy.
+-Made this webpage you are looking at right now in Github(only non-python project)
+
 ### I think that's enough about me. Goodbye!
